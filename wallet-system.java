@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class wallet {
+public class Main {
 
     public static class Wallet {
         private double balance;
