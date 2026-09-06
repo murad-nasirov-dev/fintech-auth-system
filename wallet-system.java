@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class Main {
-    
+public class wallet {
+
     public static class Wallet {
         private double balance;
 
@@ -82,4 +82,4 @@ public class Main {
 
         scanner.close();
     }
-}
+
